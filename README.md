@@ -1,5 +1,7 @@
 # tic-tac-toe
 
-Classic Tic Tac Toe game
+Classic Tic Tac Toe game.
 
-[You can try it here](https://staog.github.io/tic-tac-toe/).
+Try to beat computer or play against your friend.
+
+[You can play the game here](https://staog.github.io/tic-tac-toe/)
